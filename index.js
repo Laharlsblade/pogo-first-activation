@@ -14,7 +14,7 @@ Promise.all(
                 resolve();
             }
         }),
-        fetch('/data.json').then(r => r.json()).then(r => data = r)
+        fetch('./data.json').then(r => r.json()).then(r => data = r)
     ]
 ).then(init);
 
