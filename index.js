@@ -80,5 +80,3 @@ function searchUpdate() {
         }
     });
 }
-
-console.log('ok');
