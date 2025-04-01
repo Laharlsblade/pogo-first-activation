@@ -22,6 +22,17 @@
 		"firstEarlyActivation": 8
 	},
 	{
+		"pId": "clefable",
+		"fId": "fairy-wind",
+		"cId": "swift",
+		"pokemon": "Clefable",
+		"fast": "Fairy Wind",
+		"charge": "Swift",
+		"turns": 8,
+		"excessEnergy": 1,
+		"firstEarlyActivation": 8
+	},
+	{
 		"pId": "drapion",
 		"fId": "poison-sting",
 		"cId": "aqua-tail",
@@ -50,6 +61,17 @@
 		"pokemon": "Galarian Rapidash",
 		"fast": "Psycho Cut",
 		"charge": "Body Slam",
+		"turns": 8,
+		"excessEnergy": 1,
+		"firstEarlyActivation": 8
+	},
+	{
+		"pId": "galarian-weezing",
+		"fId": "fairy-wind",
+		"cId": "brutal-swing",
+		"pokemon": "Galarian Weezing",
+		"fast": "Fairy Wind",
+		"charge": "Brutal Swing",
 		"turns": 8,
 		"excessEnergy": 1,
 		"firstEarlyActivation": 8
@@ -160,6 +182,17 @@
 		"pokemon": "Mareep",
 		"fast": "Thunder Shock",
 		"charge": "Body Slam",
+		"turns": 8,
+		"excessEnergy": 1,
+		"firstEarlyActivation": 8
+	},
+	{
+		"pId": "mawile",
+		"fId": "fairy-wind",
+		"cId": "power-up-punch",
+		"pokemon": "Mawile",
+		"fast": "Fairy Wind",
+		"charge": "Power-Up Punch",
 		"turns": 8,
 		"excessEnergy": 1,
 		"firstEarlyActivation": 8
@@ -330,6 +363,39 @@
 		"firstEarlyActivation": 8
 	},
 	{
+		"pId": "tinkatink",
+		"fId": "fairy-wind",
+		"cId": "brutal-swing",
+		"pokemon": "Tinkatink",
+		"fast": "Fairy Wind",
+		"charge": "Brutal Swing",
+		"turns": 8,
+		"excessEnergy": 1,
+		"firstEarlyActivation": 8
+	},
+	{
+		"pId": "tinkaton",
+		"fId": "fairy-wind",
+		"cId": "brutal-swing",
+		"pokemon": "Tinkaton",
+		"fast": "Fairy Wind",
+		"charge": "Brutal Swing",
+		"turns": 8,
+		"excessEnergy": 1,
+		"firstEarlyActivation": 8
+	},
+	{
+		"pId": "tinkatuff",
+		"fId": "fairy-wind",
+		"cId": "brutal-swing",
+		"pokemon": "Tinkatuff",
+		"fast": "Fairy Wind",
+		"charge": "Brutal Swing",
+		"turns": 8,
+		"excessEnergy": 1,
+		"firstEarlyActivation": 8
+	},
+	{
 		"pId": "togedemaru",
 		"fId": "thunder-shock",
 		"cId": "fell-stinger",
@@ -451,6 +517,17 @@
 		"firstEarlyActivation": 3
 	},
 	{
+		"pId": "cobalion",
+		"fId": "double-kick",
+		"cId": "sacred-sword",
+		"pokemon": "Cobalion",
+		"fast": "Double Kick",
+		"charge": "Sacred Sword",
+		"turns": 9,
+		"excessEnergy": 1,
+		"firstEarlyActivation": 11
+	},
+	{
 		"pId": "crawdaunt",
 		"fId": "snarl",
 		"cId": "night-slash",
@@ -471,6 +548,17 @@
 		"turns": 9,
 		"excessEnergy": 1,
 		"firstEarlyActivation": 3
+	},
+	{
+		"pId": "dubwool",
+		"fId": "double-kick",
+		"cId": "body-slam",
+		"pokemon": "Dubwool",
+		"fast": "Double Kick",
+		"charge": "Body Slam",
+		"turns": 9,
+		"excessEnergy": 1,
+		"firstEarlyActivation": 11
 	},
 	{
 		"pId": "dusclops",
@@ -504,6 +592,17 @@
 		"turns": 9,
 		"excessEnergy": 1,
 		"firstEarlyActivation": 3
+	},
+	{
+		"pId": "farigiraf",
+		"fId": "double-kick",
+		"cId": "psychic-fangs",
+		"pokemon": "Farigiraf",
+		"fast": "Double Kick",
+		"charge": "Psychic Fangs",
+		"turns": 9,
+		"excessEnergy": 1,
+		"firstEarlyActivation": 11
 	},
 	{
 		"pId": "ferrothorn",
@@ -592,6 +691,17 @@
 		"turns": 9,
 		"excessEnergy": 4,
 		"firstEarlyActivation": 3
+	},
+	{
+		"pId": "girafarig",
+		"fId": "double-kick",
+		"cId": "psychic-fangs",
+		"pokemon": "Girafarig",
+		"fast": "Double Kick",
+		"charge": "Psychic Fangs",
+		"turns": 9,
+		"excessEnergy": 1,
+		"firstEarlyActivation": 11
 	},
 	{
 		"pId": "gligar",
@@ -726,6 +836,17 @@
 		"firstEarlyActivation": 3
 	},
 	{
+		"pId": "lickilicky",
+		"fId": "rollout",
+		"cId": "body-slam",
+		"pokemon": "Lickilicky",
+		"fast": "Rollout",
+		"charge": "Body Slam",
+		"turns": 9,
+		"excessEnergy": 4,
+		"firstEarlyActivation": 3
+	},
+	{
 		"pId": "linoone",
 		"fId": "sand-attack",
 		"cId": "swift",
@@ -798,6 +919,17 @@
 		"pokemon": "Mew",
 		"fast": "Snarl",
 		"charge": "Dragon Claw",
+		"turns": 9,
+		"excessEnergy": 4,
+		"firstEarlyActivation": 3
+	},
+	{
+		"pId": "miltank",
+		"fId": "rollout",
+		"cId": "body-slam",
+		"pokemon": "Miltank",
+		"fast": "Rollout",
+		"charge": "Body Slam",
 		"turns": 9,
 		"excessEnergy": 4,
 		"firstEarlyActivation": 3
@@ -968,12 +1100,45 @@
 		"firstEarlyActivation": 3
 	},
 	{
+		"pId": "terrakion",
+		"fId": "double-kick",
+		"cId": "sacred-sword",
+		"pokemon": "Terrakion",
+		"fast": "Double Kick",
+		"charge": "Sacred Sword",
+		"turns": 9,
+		"excessEnergy": 1,
+		"firstEarlyActivation": 11
+	},
+	{
 		"pId": "thievul",
 		"fId": "snarl",
 		"cId": "night-slash",
 		"pokemon": "Thievul",
 		"fast": "Snarl",
 		"charge": "Night Slash",
+		"turns": 9,
+		"excessEnergy": 4,
+		"firstEarlyActivation": 3
+	},
+	{
+		"pId": "virizion",
+		"fId": "double-kick",
+		"cId": "leaf-blade",
+		"pokemon": "Virizion",
+		"fast": "Double Kick",
+		"charge": "Leaf Blade",
+		"turns": 9,
+		"excessEnergy": 1,
+		"firstEarlyActivation": 11
+	},
+	{
+		"pId": "wailmer",
+		"fId": "rollout",
+		"cId": "body-slam",
+		"pokemon": "Wailmer",
+		"fast": "Rollout",
+		"charge": "Body Slam",
 		"turns": 9,
 		"excessEnergy": 4,
 		"firstEarlyActivation": 3
@@ -1419,17 +1584,6 @@
 		"firstEarlyActivation": 0
 	},
 	{
-		"pId": "cobalion",
-		"fId": "metal-claw",
-		"cId": "sacred-sword",
-		"pokemon": "Cobalion",
-		"fast": "Metal Claw",
-		"charge": "Sacred Sword",
-		"turns": 10,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
-	},
-	{
 		"pId": "conkeldurr",
 		"fId": "poison-jab",
 		"cId": "brutal-swing",
@@ -1683,6 +1837,17 @@
 		"firstEarlyActivation": 1
 	},
 	{
+		"pId": "enamorus-incarnate-forme",
+		"fId": "fairy-wind",
+		"cId": "fly",
+		"pokemon": "Enamorus (Incarnate Forme)",
+		"fast": "Fairy Wind",
+		"charge": "Fly",
+		"turns": 10,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
+	},
+	{
 		"pId": "eternamax-eternatus",
 		"fId": "poison-jab",
 		"cId": "cross-poison",
@@ -1725,6 +1890,17 @@
 		"turns": 10,
 		"excessEnergy": 5,
 		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "florges",
+		"fId": "fairy-wind",
+		"cId": "disarming-voice",
+		"pokemon": "Florges",
+		"fast": "Fairy Wind",
+		"charge": "Disarming Voice",
+		"turns": 10,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
 	},
 	{
 		"pId": "flying-pikachu",
@@ -2327,6 +2503,17 @@
 		"pokemon": "Meloetta (Pirouette Forme)",
 		"fast": "Quick Attack",
 		"charge": "Fire Punch",
+		"turns": 10,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
+	},
+	{
+		"pId": "meowscarada",
+		"fId": "leafage",
+		"cId": "night-slash",
+		"pokemon": "Meowscarada",
+		"fast": "Leafage",
+		"charge": "Night Slash",
 		"turns": 10,
 		"excessEnergy": 0,
 		"firstEarlyActivation": 0
@@ -3157,6 +3344,17 @@
 		"firstEarlyActivation": 1
 	},
 	{
+		"pId": "togetic",
+		"fId": "fairy-wind",
+		"cId": "psyshock",
+		"pokemon": "Togetic",
+		"fast": "Fairy Wind",
+		"charge": "Psyshock",
+		"turns": 10,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
+	},
+	{
 		"pId": "toxicroak",
 		"fId": "mud-shot",
 		"cId": "mud-bomb",
@@ -3267,17 +3465,6 @@
 		"firstEarlyActivation": 0
 	},
 	{
-		"pId": "virizion",
-		"fId": "quick-attack",
-		"cId": "leaf-blade",
-		"pokemon": "Virizion",
-		"fast": "Quick Attack",
-		"charge": "Leaf Blade",
-		"turns": 10,
-		"excessEnergy": 5,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "vulpix",
 		"fId": "quick-attack",
 		"cId": "body-slam",
@@ -3295,6 +3482,17 @@
 		"pokemon": "Walrein",
 		"fast": "Powder Snow",
 		"charge": "Icicle Spear",
+		"turns": 10,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
+	},
+	{
+		"pId": "whimsicott",
+		"fId": "fairy-wind",
+		"cId": "seed-bomb",
+		"pokemon": "Whimsicott",
+		"fast": "Fairy Wind",
+		"charge": "Seed Bomb",
 		"turns": 10,
 		"excessEnergy": 0,
 		"firstEarlyActivation": 0
@@ -3410,6 +3608,17 @@
 		"firstEarlyActivation": 1
 	},
 	{
+		"pId": "aipom",
+		"fId": "astonish",
+		"cId": "swift",
+		"pokemon": "Aipom",
+		"fast": "Astonish",
+		"charge": "Swift",
+		"turns": 12,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
+	},
+	{
 		"pId": "alolan-exeggutor",
 		"fId": "bullet-seed",
 		"cId": "seed-bomb",
@@ -3433,13 +3642,13 @@
 	},
 	{
 		"pId": "alolan-golem",
-		"fId": "volt-switch",
+		"fId": "rollout",
 		"cId": "rock-blast",
 		"pokemon": "Alolan Golem",
-		"fast": "Volt Switch",
+		"fast": "Rollout",
 		"charge": "Rock Blast",
 		"turns": 12,
-		"excessEnergy": 8,
+		"excessEnergy": 12,
 		"firstEarlyActivation": 1
 	},
 	{
@@ -3485,6 +3694,28 @@
 		"turns": 12,
 		"excessEnergy": 3,
 		"firstEarlyActivation": 2
+	},
+	{
+		"pId": "ambipom",
+		"fId": "astonish",
+		"cId": "low-sweep",
+		"pokemon": "Ambipom",
+		"fast": "Astonish",
+		"charge": "Low Sweep",
+		"turns": 12,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
+	},
+	{
+		"pId": "amoonguss",
+		"fId": "astonish",
+		"cId": "foul-play",
+		"pokemon": "Amoonguss",
+		"fast": "Astonish",
+		"charge": "Foul Play",
+		"turns": 12,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
 	},
 	{
 		"pId": "ampharos",
@@ -3630,6 +3861,17 @@
 		"firstEarlyActivation": 2
 	},
 	{
+		"pId": "bibarel",
+		"fId": "rollout",
+		"cId": "surf",
+		"pokemon": "Bibarel",
+		"fast": "Rollout",
+		"charge": "Surf",
+		"turns": 12,
+		"excessEnergy": 7,
+		"firstEarlyActivation": 1
+	},
+	{
 		"pId": "binacle",
 		"fId": "mud-slap",
 		"cId": "cross-chop",
@@ -3661,6 +3903,17 @@
 		"turns": 12,
 		"excessEnergy": 3,
 		"firstEarlyActivation": 2
+	},
+	{
+		"pId": "blastoise",
+		"fId": "rollout",
+		"cId": "hydro-cannon",
+		"pokemon": "Blastoise",
+		"fast": "Rollout",
+		"charge": "Hydro Cannon",
+		"turns": 12,
+		"excessEnergy": 12,
+		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "blaziken",
@@ -3916,17 +4169,6 @@
 		"firstEarlyActivation": 2
 	},
 	{
-		"pId": "clefable",
-		"fId": "charge-beam",
-		"cId": "swift",
-		"pokemon": "Clefable",
-		"fast": "Charge Beam",
-		"charge": "Swift",
-		"turns": 12,
-		"excessEnergy": 9,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "cloyster",
 		"fId": "ice-shard",
 		"cId": "razor-shell",
@@ -4037,6 +4279,17 @@
 		"firstEarlyActivation": 1
 	},
 	{
+		"pId": "cursola",
+		"fId": "astonish",
+		"cId": "rock-blast",
+		"pokemon": "Cursola",
+		"fast": "Astonish",
+		"charge": "Rock Blast",
+		"turns": 12,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
+	},
+	{
 		"pId": "cyclizar",
 		"fId": "dragon-tail",
 		"cId": "dragon-claw",
@@ -4082,14 +4335,14 @@
 	},
 	{
 		"pId": "decidueye",
-		"fId": "magical-leaf",
+		"fId": "leafage",
 		"cId": "spirit-shackle",
 		"pokemon": "Decidueye",
-		"fast": "Magical Leaf",
+		"fast": "Leafage",
 		"charge": "Spirit Shackle",
 		"turns": 12,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
+		"excessEnergy": 2,
+		"firstEarlyActivation": 3
 	},
 	{
 		"pId": "deino",
@@ -4203,14 +4456,14 @@
 	},
 	{
 		"pId": "dragapult",
-		"fId": "dragon-tail",
+		"fId": "astonish",
 		"cId": "breaking-swipe",
 		"pokemon": "Dragapult",
-		"fast": "Dragon Tail",
+		"fast": "Astonish",
 		"charge": "Breaking Swipe",
 		"turns": 12,
-		"excessEnergy": 1,
-		"firstEarlyActivation": 8
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "dragonair",
@@ -4290,17 +4543,6 @@
 		"firstEarlyActivation": 8
 	},
 	{
-		"pId": "dubwool",
-		"fId": "tackle",
-		"cId": "body-slam",
-		"pokemon": "Dubwool",
-		"fast": "Tackle",
-		"charge": "Body Slam",
-		"turns": 12,
-		"excessEnergy": 1,
-		"firstEarlyActivation": 2
-	},
-	{
 		"pId": "ducklett",
 		"fId": "wing-attack",
 		"cId": "bubble-beam",
@@ -4310,6 +4552,28 @@
 		"turns": 12,
 		"excessEnergy": 2,
 		"firstEarlyActivation": 3
+	},
+	{
+		"pId": "dudunsparce",
+		"fId": "rollout",
+		"cId": "rock-slide",
+		"pokemon": "Dudunsparce",
+		"fast": "Rollout",
+		"charge": "Rock Slide",
+		"turns": 12,
+		"excessEnergy": 7,
+		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "dunsparce",
+		"fId": "rollout",
+		"cId": "rock-slide",
+		"pokemon": "Dunsparce",
+		"fast": "Rollout",
+		"charge": "Rock Slide",
+		"turns": 12,
+		"excessEnergy": 7,
+		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "durant",
@@ -4444,17 +4708,6 @@
 		"firstEarlyActivation": 1
 	},
 	{
-		"pId": "farigiraf",
-		"fId": "confusion",
-		"cId": "psychic-fangs",
-		"pokemon": "Farigiraf",
-		"fast": "Confusion",
-		"charge": "Psychic Fangs",
-		"turns": 12,
-		"excessEnergy": 1,
-		"firstEarlyActivation": 11
-	},
-	{
 		"pId": "flaaffy",
 		"fId": "charge-beam",
 		"cId": "discharge",
@@ -4464,6 +4717,17 @@
 		"turns": 12,
 		"excessEnergy": 4,
 		"firstEarlyActivation": 2
+	},
+	{
+		"pId": "flamigo",
+		"fId": "double-kick",
+		"cId": "close-combat",
+		"pokemon": "Flamigo",
+		"fast": "Double Kick",
+		"charge": "Close Combat",
+		"turns": 12,
+		"excessEnergy": 3,
+		"firstEarlyActivation": 3
 	},
 	{
 		"pId": "flapple",
@@ -4499,26 +4763,15 @@
 		"firstEarlyActivation": 2
 	},
 	{
-		"pId": "florges",
-		"fId": "vine-whip",
-		"cId": "disarming-voice",
-		"pokemon": "Florges",
-		"fast": "Vine Whip",
-		"charge": "Disarming Voice",
-		"turns": 12,
-		"excessEnergy": 3,
-		"firstEarlyActivation": 2
-	},
-	{
 		"pId": "foongus",
-		"fId": "feint-attack",
+		"fId": "astonish",
 		"cId": "body-slam",
 		"pokemon": "Foongus",
-		"fast": "Feint Attack",
+		"fast": "Astonish",
 		"charge": "Body Slam",
 		"turns": 12,
-		"excessEnergy": 1,
-		"firstEarlyActivation": 5
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "forretress",
@@ -4609,6 +4862,17 @@
 		"firstEarlyActivation": 2
 	},
 	{
+		"pId": "galarian-corsola",
+		"fId": "astonish",
+		"cId": "rock-blast",
+		"pokemon": "Galarian Corsola",
+		"fast": "Astonish",
+		"charge": "Rock Blast",
+		"turns": 12,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
+	},
+	{
 		"pId": "galarian-slowking",
 		"fId": "hex",
 		"cId": "surf",
@@ -4620,15 +4884,15 @@
 		"firstEarlyActivation": 1
 	},
 	{
-		"pId": "galarian-weezing",
-		"fId": "tackle",
-		"cId": "brutal-swing",
-		"pokemon": "Galarian Weezing",
-		"fast": "Tackle",
-		"charge": "Brutal Swing",
+		"pId": "galarian-yamask",
+		"fId": "astonish",
+		"cId": "sand-tomb",
+		"pokemon": "Galarian Yamask",
+		"fast": "Astonish",
+		"charge": "Sand Tomb",
 		"turns": 12,
-		"excessEnergy": 1,
-		"firstEarlyActivation": 2
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
 	},
 	{
 		"pId": "galarian-zigzagoon",
@@ -4686,17 +4950,6 @@
 		"firstEarlyActivation": 0
 	},
 	{
-		"pId": "girafarig",
-		"fId": "tackle",
-		"cId": "psychic-fangs",
-		"pokemon": "Girafarig",
-		"fast": "Tackle",
-		"charge": "Psychic Fangs",
-		"turns": 12,
-		"excessEnergy": 1,
-		"firstEarlyActivation": 2
-	},
-	{
 		"pId": "giratina-origin-forme",
 		"fId": "shadow-claw",
 		"cId": "ominous-wind",
@@ -4706,6 +4959,17 @@
 		"turns": 12,
 		"excessEnergy": 3,
 		"firstEarlyActivation": 2
+	},
+	{
+		"pId": "glalie",
+		"fId": "rollout",
+		"cId": "avalanche",
+		"pokemon": "Glalie",
+		"fast": "Rollout",
+		"charge": "Avalanche",
+		"turns": 12,
+		"excessEnergy": 7,
+		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "golduck",
@@ -4720,10 +4984,10 @@
 	},
 	{
 		"pId": "golett",
-		"fId": "mud-slap",
+		"fId": "astonish",
 		"cId": "shadow-punch",
 		"pokemon": "Golett",
-		"fast": "Mud Slap",
+		"fast": "Astonish",
 		"charge": "Shadow Punch",
 		"turns": 12,
 		"excessEnergy": 5,
@@ -4731,10 +4995,10 @@
 	},
 	{
 		"pId": "golurk",
-		"fId": "mud-slap",
+		"fId": "astonish",
 		"cId": "shadow-punch",
 		"pokemon": "Golurk",
-		"fast": "Mud Slap",
+		"fast": "Astonish",
 		"charge": "Shadow Punch",
 		"turns": 12,
 		"excessEnergy": 5,
@@ -5016,6 +5280,17 @@
 		"firstEarlyActivation": 1
 	},
 	{
+		"pId": "hitmonlee",
+		"fId": "double-kick",
+		"cId": "low-sweep",
+		"pokemon": "Hitmonlee",
+		"fast": "Double Kick",
+		"charge": "Low Sweep",
+		"turns": 12,
+		"excessEnergy": 8,
+		"firstEarlyActivation": 1
+	},
+	{
 		"pId": "honchkrow",
 		"fId": "snarl",
 		"cId": "dark-pulse",
@@ -5171,14 +5446,14 @@
 	},
 	{
 		"pId": "jumpluff",
-		"fId": "bullet-seed",
+		"fId": "fairy-wind",
 		"cId": "aerial-ace",
 		"pokemon": "Jumpluff",
-		"fast": "Bullet Seed",
+		"fast": "Fairy Wind",
 		"charge": "Aerial Ace",
 		"turns": 12,
-		"excessEnergy": 2,
-		"firstEarlyActivation": 6
+		"excessEnergy": 4,
+		"firstEarlyActivation": 2
 	},
 	{
 		"pId": "kabutops",
@@ -5247,6 +5522,17 @@
 		"firstEarlyActivation": 1
 	},
 	{
+		"pId": "klefki",
+		"fId": "astonish",
+		"cId": "foul-play",
+		"pokemon": "Klefki",
+		"fast": "Astonish",
+		"charge": "Foul Play",
+		"turns": 12,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
+	},
+	{
 		"pId": "koffing",
 		"fId": "infestation",
 		"cId": "sludge",
@@ -5255,6 +5541,17 @@
 		"charge": "Sludge",
 		"turns": 12,
 		"excessEnergy": 8,
+		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "komala",
+		"fId": "rollout",
+		"cId": "bulldoze",
+		"pokemon": "Komala",
+		"fast": "Rollout",
+		"charge": "Bulldoze",
+		"turns": 12,
+		"excessEnergy": 7,
 		"firstEarlyActivation": 1
 	},
 	{
@@ -5346,17 +5643,6 @@
 		"firstEarlyActivation": 2
 	},
 	{
-		"pId": "lickilicky",
-		"fId": "rollout",
-		"cId": "body-slam",
-		"pokemon": "Lickilicky",
-		"fast": "Rollout",
-		"charge": "Body Slam",
-		"turns": 12,
-		"excessEnergy": 4,
-		"firstEarlyActivation": 3
-	},
-	{
 		"pId": "lickitung",
 		"fId": "lick",
 		"cId": "body-slam",
@@ -5410,6 +5696,17 @@
 		"turns": 12,
 		"excessEnergy": 4,
 		"firstEarlyActivation": 2
+	},
+	{
+		"pId": "lopunny",
+		"fId": "double-kick",
+		"cId": "fire-punch",
+		"pokemon": "Lopunny",
+		"fast": "Double Kick",
+		"charge": "Fire Punch",
+		"turns": 12,
+		"excessEnergy": 8,
+		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "lunatone",
@@ -5544,17 +5841,6 @@
 		"firstEarlyActivation": 1
 	},
 	{
-		"pId": "mawile",
-		"fId": "fire-fang",
-		"cId": "power-up-punch",
-		"pokemon": "Mawile",
-		"fast": "Fire Fang",
-		"charge": "Power-Up Punch",
-		"turns": 12,
-		"excessEnergy": 1,
-		"firstEarlyActivation": 5
-	},
-	{
 		"pId": "meganium",
 		"fId": "vine-whip",
 		"cId": "frenzy-plant",
@@ -5599,17 +5885,6 @@
 		"firstEarlyActivation": 3
 	},
 	{
-		"pId": "miltank",
-		"fId": "rollout",
-		"cId": "body-slam",
-		"pokemon": "Miltank",
-		"fast": "Rollout",
-		"charge": "Body Slam",
-		"turns": 12,
-		"excessEnergy": 4,
-		"firstEarlyActivation": 3
-	},
-	{
 		"pId": "mimikyu",
 		"fId": "shadow-claw",
 		"cId": "shadow-sneak",
@@ -5619,6 +5894,28 @@
 		"turns": 12,
 		"excessEnergy": 3,
 		"firstEarlyActivation": 2
+	},
+	{
+		"pId": "minior-core",
+		"fId": "rollout",
+		"cId": "ancient-power",
+		"pokemon": "Minior (Core)",
+		"fast": "Rollout",
+		"charge": "Ancient Power",
+		"turns": 12,
+		"excessEnergy": 7,
+		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "minior-meteor-form",
+		"fId": "rollout",
+		"cId": "ancient-power",
+		"pokemon": "Minior (Meteor Form)",
+		"fast": "Rollout",
+		"charge": "Ancient Power",
+		"turns": 12,
+		"excessEnergy": 7,
+		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "misdreavus",
@@ -6061,6 +6358,17 @@
 		"firstEarlyActivation": 2
 	},
 	{
+		"pId": "phantump",
+		"fId": "astonish",
+		"cId": "foul-play",
+		"pokemon": "Phantump",
+		"fast": "Astonish",
+		"charge": "Foul Play",
+		"turns": 12,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
+	},
+	{
 		"pId": "phione",
 		"fId": "bubble",
 		"cId": "bubble-beam",
@@ -6136,6 +6444,50 @@
 		"turns": 12,
 		"excessEnergy": 1,
 		"firstEarlyActivation": 2
+	},
+	{
+		"pId": "pumpkaboo-average-size",
+		"fId": "astonish",
+		"cId": "foul-play",
+		"pokemon": "Pumpkaboo - Average Size",
+		"fast": "Astonish",
+		"charge": "Foul Play",
+		"turns": 12,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
+	},
+	{
+		"pId": "pumpkaboo-large-size",
+		"fId": "astonish",
+		"cId": "foul-play",
+		"pokemon": "Pumpkaboo - Large Size",
+		"fast": "Astonish",
+		"charge": "Foul Play",
+		"turns": 12,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
+	},
+	{
+		"pId": "pumpkaboo-small-size",
+		"fId": "astonish",
+		"cId": "foul-play",
+		"pokemon": "Pumpkaboo - Small Size",
+		"fast": "Astonish",
+		"charge": "Foul Play",
+		"turns": 12,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
+	},
+	{
+		"pId": "pumpkaboo-super-size",
+		"fId": "astonish",
+		"cId": "foul-play",
+		"pokemon": "Pumpkaboo - Super Size",
+		"fast": "Astonish",
+		"charge": "Foul Play",
+		"turns": 12,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
 	},
 	{
 		"pId": "quaquaval",
@@ -6699,6 +7051,17 @@
 		"firstEarlyActivation": 6
 	},
 	{
+		"pId": "tapu-lele",
+		"fId": "astonish",
+		"cId": "psyshock",
+		"pokemon": "Tapu Lele",
+		"fast": "Astonish",
+		"charge": "Psyshock",
+		"turns": 12,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
+	},
+	{
 		"pId": "tatsugiri",
 		"fId": "water-gun",
 		"cId": "muddy-water",
@@ -6743,17 +7106,6 @@
 		"firstEarlyActivation": 2
 	},
 	{
-		"pId": "terrakion",
-		"fId": "double-kick",
-		"cId": "sacred-sword",
-		"pokemon": "Terrakion",
-		"fast": "Double Kick",
-		"charge": "Sacred Sword",
-		"turns": 12,
-		"excessEnergy": 1,
-		"firstEarlyActivation": 11
-	},
-	{
 		"pId": "thundurus-therian-forme",
 		"fId": "volt-switch",
 		"cId": "wildbolt-storm",
@@ -6774,39 +7126,6 @@
 		"turns": 12,
 		"excessEnergy": 7,
 		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "tinkatink",
-		"fId": "fairy-wind",
-		"cId": "brutal-swing",
-		"pokemon": "Tinkatink",
-		"fast": "Fairy Wind",
-		"charge": "Brutal Swing",
-		"turns": 12,
-		"excessEnergy": 1,
-		"firstEarlyActivation": 8
-	},
-	{
-		"pId": "tinkaton",
-		"fId": "fairy-wind",
-		"cId": "brutal-swing",
-		"pokemon": "Tinkaton",
-		"fast": "Fairy Wind",
-		"charge": "Brutal Swing",
-		"turns": 12,
-		"excessEnergy": 1,
-		"firstEarlyActivation": 8
-	},
-	{
-		"pId": "tinkatuff",
-		"fId": "fairy-wind",
-		"cId": "brutal-swing",
-		"pokemon": "Tinkatuff",
-		"fast": "Fairy Wind",
-		"charge": "Brutal Swing",
-		"turns": 12,
-		"excessEnergy": 1,
-		"firstEarlyActivation": 8
 	},
 	{
 		"pId": "tirtouga",
@@ -6840,17 +7159,6 @@
 		"turns": 12,
 		"excessEnergy": 3,
 		"firstEarlyActivation": 2
-	},
-	{
-		"pId": "togetic",
-		"fId": "extrasensory",
-		"cId": "psyshock",
-		"pokemon": "Togetic",
-		"fast": "Extrasensory",
-		"charge": "Psyshock",
-		"turns": 12,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
 	},
 	{
 		"pId": "toucannon",
@@ -7062,15 +7370,15 @@
 		"firstEarlyActivation": 3
 	},
 	{
-		"pId": "wailmer",
+		"pId": "wailord",
 		"fId": "rollout",
-		"cId": "body-slam",
-		"pokemon": "Wailmer",
+		"cId": "surf",
+		"pokemon": "Wailord",
 		"fast": "Rollout",
-		"charge": "Body Slam",
+		"charge": "Surf",
 		"turns": 12,
-		"excessEnergy": 4,
-		"firstEarlyActivation": 3
+		"excessEnergy": 7,
+		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "wattrel",
@@ -7106,6 +7414,17 @@
 		"firstEarlyActivation": 1
 	},
 	{
+		"pId": "weezing",
+		"fId": "rollout",
+		"cId": "dark-pulse",
+		"pokemon": "Weezing",
+		"fast": "Rollout",
+		"charge": "Dark Pulse",
+		"turns": 12,
+		"excessEnergy": 2,
+		"firstEarlyActivation": 6
+	},
+	{
 		"pId": "whirlipede",
 		"fId": "poison-sting",
 		"cId": "sludge-bomb",
@@ -7115,6 +7434,17 @@
 		"turns": 12,
 		"excessEnergy": 4,
 		"firstEarlyActivation": 2
+	},
+	{
+		"pId": "whismur",
+		"fId": "astonish",
+		"cId": "stomp",
+		"pokemon": "Whismur",
+		"fast": "Astonish",
+		"charge": "Stomp",
+		"turns": 12,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
 	},
 	{
 		"pId": "wigglytuff",
@@ -7414,17 +7744,6 @@
 		"firstEarlyActivation": 2
 	},
 	{
-		"pId": "amoonguss",
-		"fId": "feint-attack",
-		"cId": "foul-play",
-		"pokemon": "Amoonguss",
-		"fast": "Feint Attack",
-		"charge": "Foul Play",
-		"turns": 14,
-		"excessEnergy": 2,
-		"firstEarlyActivation": 2
-	},
-	{
 		"pId": "banette",
 		"fId": "shadow-claw",
 		"cId": "shadow-ball",
@@ -7442,17 +7761,6 @@
 		"pokemon": "Bidoof",
 		"fast": "Tackle",
 		"charge": "Superpower",
-		"turns": 14,
-		"excessEnergy": 2,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "blastoise",
-		"fId": "water-gun",
-		"cId": "hydro-cannon",
-		"pokemon": "Blastoise",
-		"fast": "Water Gun",
-		"charge": "Hydro Cannon",
 		"turns": 14,
 		"excessEnergy": 2,
 		"firstEarlyActivation": 1
@@ -7510,6 +7818,17 @@
 		"charge": "Psyshock",
 		"turns": 14,
 		"excessEnergy": 2,
+		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "capsakid",
+		"fId": "leafage",
+		"cId": "seed-bomb",
+		"pokemon": "Capsakid",
+		"fast": "Leafage",
+		"charge": "Seed Bomb",
+		"turns": 14,
+		"excessEnergy": 4,
 		"firstEarlyActivation": 1
 	},
 	{
@@ -7579,14 +7898,25 @@
 		"firstEarlyActivation": 1
 	},
 	{
-		"pId": "cursola",
-		"fId": "tackle",
-		"cId": "rock-blast",
-		"pokemon": "Cursola",
-		"fast": "Tackle",
-		"charge": "Rock Blast",
+		"pId": "cutiefly",
+		"fId": "fairy-wind",
+		"cId": "dazzling-gleam",
+		"pokemon": "Cutiefly",
+		"fast": "Fairy Wind",
+		"charge": "Dazzling Gleam",
 		"turns": 14,
-		"excessEnergy": 2,
+		"excessEnergy": 8,
+		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "dartrix",
+		"fId": "leafage",
+		"cId": "seed-bomb",
+		"pokemon": "Dartrix",
+		"fast": "Leafage",
+		"charge": "Seed Bomb",
+		"turns": 14,
+		"excessEnergy": 4,
 		"firstEarlyActivation": 1
 	},
 	{
@@ -7634,17 +7964,6 @@
 		"firstEarlyActivation": 2
 	},
 	{
-		"pId": "flamigo",
-		"fId": "wing-attack",
-		"cId": "close-combat",
-		"pokemon": "Flamigo",
-		"fast": "Wing Attack",
-		"charge": "Close Combat",
-		"turns": 14,
-		"excessEnergy": 4,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "floette",
 		"fId": "vine-whip",
 		"cId": "dazzling-gleam",
@@ -7654,17 +7973,6 @@
 		"turns": 14,
 		"excessEnergy": 1,
 		"firstEarlyActivation": 7
-	},
-	{
-		"pId": "galarian-corsola",
-		"fId": "tackle",
-		"cId": "rock-blast",
-		"pokemon": "Galarian Corsola",
-		"fast": "Tackle",
-		"charge": "Rock Blast",
-		"turns": 14,
-		"excessEnergy": 2,
-		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "galarian-darmanitan",
@@ -7763,17 +8071,6 @@
 		"charge": "Dazzling Gleam",
 		"turns": 14,
 		"excessEnergy": 8,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "klefki",
-		"fId": "tackle",
-		"cId": "foul-play",
-		"pokemon": "Klefki",
-		"fast": "Tackle",
-		"charge": "Foul Play",
-		"turns": 14,
-		"excessEnergy": 2,
 		"firstEarlyActivation": 1
 	},
 	{
@@ -7997,17 +8294,6 @@
 		"firstEarlyActivation": 7
 	},
 	{
-		"pId": "phantump",
-		"fId": "tackle",
-		"cId": "foul-play",
-		"pokemon": "Phantump",
-		"fast": "Tackle",
-		"charge": "Foul Play",
-		"turns": 14,
-		"excessEnergy": 2,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "pineco",
 		"fId": "tackle",
 		"cId": "sand-tomb",
@@ -8082,6 +8368,17 @@
 		"charge": "Acid Spray",
 		"turns": 14,
 		"excessEnergy": 4,
+		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "ribombee",
+		"fId": "fairy-wind",
+		"cId": "dazzling-gleam",
+		"pokemon": "Ribombee",
+		"fast": "Fairy Wind",
+		"charge": "Dazzling Gleam",
+		"turns": 14,
+		"excessEnergy": 8,
 		"firstEarlyActivation": 1
 	},
 	{
@@ -8203,6 +8500,17 @@
 		"charge": "Psyshock",
 		"turns": 14,
 		"excessEnergy": 2,
+		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "slurpuff",
+		"fId": "fairy-wind",
+		"cId": "energy-ball",
+		"pokemon": "Slurpuff",
+		"fast": "Fairy Wind",
+		"charge": "Energy Ball",
+		"turns": 14,
+		"excessEnergy": 8,
 		"firstEarlyActivation": 1
 	},
 	{
@@ -8635,23 +8943,23 @@
 		"firstEarlyActivation": 1
 	},
 	{
+		"pId": "beheeyem",
+		"fId": "astonish",
+		"cId": "rock-slide",
+		"pokemon": "Beheeyem",
+		"fast": "Astonish",
+		"charge": "Rock Slide",
+		"turns": 15,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
+	},
+	{
 		"pId": "bergmite",
 		"fId": "tackle",
 		"cId": "crunch",
 		"pokemon": "Bergmite",
 		"fast": "Tackle",
 		"charge": "Crunch",
-		"turns": 15,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
-	},
-	{
-		"pId": "bibarel",
-		"fId": "water-gun",
-		"cId": "surf",
-		"pokemon": "Bibarel",
-		"fast": "Water Gun",
-		"charge": "Surf",
 		"turns": 15,
 		"excessEnergy": 0,
 		"firstEarlyActivation": 0
@@ -8844,17 +9152,6 @@
 		"firstEarlyActivation": 1
 	},
 	{
-		"pId": "dartrix",
-		"fId": "magical-leaf",
-		"cId": "seed-bomb",
-		"pokemon": "Dartrix",
-		"fast": "Magical Leaf",
-		"charge": "Seed Bomb",
-		"turns": 15,
-		"excessEnergy": 5,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "deerling",
 		"fId": "tackle",
 		"cId": "seed-bomb",
@@ -8976,12 +9273,12 @@
 		"firstEarlyActivation": 0
 	},
 	{
-		"pId": "enamorus-incarnate-forme",
-		"fId": "fairy-wind",
-		"cId": "fly",
-		"pokemon": "Enamorus (Incarnate Forme)",
-		"fast": "Fairy Wind",
-		"charge": "Fly",
+		"pId": "elgyem",
+		"fId": "astonish",
+		"cId": "dark-pulse",
+		"pokemon": "Elgyem",
+		"fast": "Astonish",
+		"charge": "Dark Pulse",
 		"turns": 15,
 		"excessEnergy": 0,
 		"firstEarlyActivation": 0
@@ -8996,6 +9293,17 @@
 		"turns": 15,
 		"excessEnergy": 0,
 		"firstEarlyActivation": 0
+	},
+	{
+		"pId": "exploud",
+		"fId": "astonish",
+		"cId": "crunch",
+		"pokemon": "Exploud",
+		"fast": "Astonish",
+		"charge": "Crunch",
+		"turns": 15,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "finizen",
@@ -9097,17 +9405,6 @@
 		"firstEarlyActivation": 1
 	},
 	{
-		"pId": "glalie",
-		"fId": "ice-shard",
-		"cId": "avalanche",
-		"pokemon": "Glalie",
-		"fast": "Ice Shard",
-		"charge": "Avalanche",
-		"turns": 15,
-		"excessEnergy": 5,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "glastrier",
 		"fId": "tackle",
 		"cId": "avalanche",
@@ -9150,6 +9447,17 @@
 		"turns": 15,
 		"excessEnergy": 5,
 		"firstEarlyActivation": 3
+	},
+	{
+		"pId": "hoopa-unbound",
+		"fId": "astonish",
+		"cId": "dark-pulse",
+		"pokemon": "Hoopa (Unbound)",
+		"fast": "Astonish",
+		"charge": "Dark Pulse",
+		"turns": 15,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
 	},
 	{
 		"pId": "illumise",
@@ -9240,6 +9548,17 @@
 		"firstEarlyActivation": 1
 	},
 	{
+		"pId": "litwick",
+		"fId": "astonish",
+		"cId": "flame-charge",
+		"pokemon": "Litwick",
+		"fast": "Astonish",
+		"charge": "Flame Charge",
+		"turns": 15,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
+	},
+	{
 		"pId": "ludicolo",
 		"fId": "bubble",
 		"cId": "scald",
@@ -9284,17 +9603,6 @@
 		"firstEarlyActivation": 2
 	},
 	{
-		"pId": "meowscarada",
-		"fId": "leafage",
-		"cId": "night-slash",
-		"pokemon": "Meowscarada",
-		"fast": "Leafage",
-		"charge": "Night Slash",
-		"turns": 15,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
-	},
-	{
 		"pId": "milotic",
 		"fId": "dragon-tail",
 		"cId": "surf",
@@ -9304,6 +9612,17 @@
 		"turns": 15,
 		"excessEnergy": 0,
 		"firstEarlyActivation": 0
+	},
+	{
+		"pId": "morelull",
+		"fId": "astonish",
+		"cId": "seed-bomb",
+		"pokemon": "Morelull",
+		"fast": "Astonish",
+		"charge": "Seed Bomb",
+		"turns": 15,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "orthworm",
@@ -9461,14 +9780,14 @@
 	},
 	{
 		"pId": "rotom-fan",
-		"fId": "air-slash",
+		"fId": "astonish",
 		"cId": "ominous-wind",
 		"pokemon": "Rotom Fan",
-		"fast": "Air Slash",
+		"fast": "Astonish",
 		"charge": "Ominous Wind",
 		"turns": 15,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "rowlet",
@@ -9570,6 +9889,17 @@
 		"firstEarlyActivation": 0
 	},
 	{
+		"pId": "shiinotic",
+		"fId": "astonish",
+		"cId": "seed-bomb",
+		"pokemon": "Shiinotic",
+		"fast": "Astonish",
+		"charge": "Seed Bomb",
+		"turns": 15,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
+	},
+	{
 		"pId": "shuckle",
 		"fId": "struggle-bug",
 		"cId": "rock-blast",
@@ -9579,6 +9909,17 @@
 		"turns": 15,
 		"excessEnergy": 0,
 		"firstEarlyActivation": 0
+	},
+	{
+		"pId": "shuppet",
+		"fId": "astonish",
+		"cId": "ominous-wind",
+		"pokemon": "Shuppet",
+		"fast": "Astonish",
+		"charge": "Ominous Wind",
+		"turns": 15,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "simipour",
@@ -9601,6 +9942,17 @@
 		"turns": 15,
 		"excessEnergy": 5,
 		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "sinistea",
+		"fId": "astonish",
+		"cId": "dark-pulse",
+		"pokemon": "Sinistea",
+		"fast": "Astonish",
+		"charge": "Dark Pulse",
+		"turns": 15,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
 	},
 	{
 		"pId": "sizzlipede",
@@ -9713,6 +10065,17 @@
 		"firstEarlyActivation": 0
 	},
 	{
+		"pId": "swablu",
+		"fId": "astonish",
+		"cId": "disarming-voice",
+		"pokemon": "Swablu",
+		"fast": "Astonish",
+		"charge": "Disarming Voice",
+		"turns": 15,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
+	},
+	{
 		"pId": "swadloon",
 		"fId": "bug-bite",
 		"cId": "silver-wind",
@@ -9768,6 +10131,17 @@
 		"firstEarlyActivation": 0
 	},
 	{
+		"pId": "tornadus-therian-forme",
+		"fId": "astonish",
+		"cId": "bleakwind-storm",
+		"pokemon": "Tornadus (Therian Forme)",
+		"fast": "Astonish",
+		"charge": "Bleakwind Storm",
+		"turns": 15,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
+	},
+	{
 		"pId": "turtonator",
 		"fId": "incinerate",
 		"cId": "overheat",
@@ -9801,6 +10175,28 @@
 		"firstEarlyActivation": 0
 	},
 	{
+		"pId": "vanillish",
+		"fId": "astonish",
+		"cId": "icy-wind",
+		"pokemon": "Vanillish",
+		"fast": "Astonish",
+		"charge": "Icy Wind",
+		"turns": 15,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "vanilluxe",
+		"fId": "astonish",
+		"cId": "avalanche",
+		"pokemon": "Vanilluxe",
+		"fast": "Astonish",
+		"charge": "Avalanche",
+		"turns": 15,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
+	},
+	{
 		"pId": "volcanion",
 		"fId": "incinerate",
 		"cId": "sludge-bomb",
@@ -9810,39 +10206,6 @@
 		"turns": 15,
 		"excessEnergy": 10,
 		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "wailord",
-		"fId": "water-gun",
-		"cId": "surf",
-		"pokemon": "Wailord",
-		"fast": "Water Gun",
-		"charge": "Surf",
-		"turns": 15,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
-	},
-	{
-		"pId": "weezing",
-		"fId": "infestation",
-		"cId": "dark-pulse",
-		"pokemon": "Weezing",
-		"fast": "Infestation",
-		"charge": "Dark Pulse",
-		"turns": 15,
-		"excessEnergy": 10,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "whimsicott",
-		"fId": "fairy-wind",
-		"cId": "seed-bomb",
-		"pokemon": "Whimsicott",
-		"fast": "Fairy Wind",
-		"charge": "Seed Bomb",
-		"turns": 15,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
 	},
 	{
 		"pId": "white-kyurem",
@@ -9898,6 +10261,17 @@
 		"turns": 15,
 		"excessEnergy": 0,
 		"firstEarlyActivation": 0
+	},
+	{
+		"pId": "yamask",
+		"fId": "astonish",
+		"cId": "ominous-wind",
+		"pokemon": "Yamask",
+		"fast": "Astonish",
+		"charge": "Ominous Wind",
+		"turns": 15,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "yungoos",
@@ -9966,28 +10340,6 @@
 		"firstEarlyActivation": 1
 	},
 	{
-		"pId": "aipom",
-		"fId": "astonish",
-		"cId": "swift",
-		"pokemon": "Aipom",
-		"fast": "Astonish",
-		"charge": "Swift",
-		"turns": 16,
-		"excessEnergy": 5,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "ambipom",
-		"fId": "astonish",
-		"cId": "low-sweep",
-		"pokemon": "Ambipom",
-		"fast": "Astonish",
-		"charge": "Low Sweep",
-		"turns": 16,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
-	},
-	{
 		"pId": "arceus",
 		"fId": "shadow-claw",
 		"cId": "outrage",
@@ -10019,17 +10371,6 @@
 		"turns": 16,
 		"excessEnergy": 3,
 		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "beheeyem",
-		"fId": "confusion",
-		"cId": "rock-slide",
-		"pokemon": "Beheeyem",
-		"fast": "Confusion",
-		"charge": "Rock Slide",
-		"turns": 16,
-		"excessEnergy": 3,
-		"firstEarlyActivation": 3
 	},
 	{
 		"pId": "bonsly",
@@ -10117,28 +10458,6 @@
 		"charge": "Psyshock",
 		"turns": 16,
 		"excessEnergy": 8,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "dudunsparce",
-		"fId": "rollout",
-		"cId": "rock-slide",
-		"pokemon": "Dudunsparce",
-		"fast": "Rollout",
-		"charge": "Rock Slide",
-		"turns": 16,
-		"excessEnergy": 7,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "dunsparce",
-		"fId": "rollout",
-		"cId": "rock-slide",
-		"pokemon": "Dunsparce",
-		"fast": "Rollout",
-		"charge": "Rock Slide",
-		"turns": 16,
-		"excessEnergy": 7,
 		"firstEarlyActivation": 1
 	},
 	{
@@ -10230,6 +10549,17 @@
 		"firstEarlyActivation": 1
 	},
 	{
+		"pId": "floragato",
+		"fId": "leafage",
+		"cId": "grass-knot",
+		"pokemon": "Floragato",
+		"fast": "Leafage",
+		"charge": "Grass Knot",
+		"turns": 16,
+		"excessEnergy": 6,
+		"firstEarlyActivation": 1
+	},
+	{
 		"pId": "galarian-mr-mime",
 		"fId": "confusion",
 		"cId": "ice-punch",
@@ -10250,17 +10580,6 @@
 		"turns": 16,
 		"excessEnergy": 8,
 		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "galarian-yamask",
-		"fId": "astonish",
-		"cId": "sand-tomb",
-		"pokemon": "Galarian Yamask",
-		"fast": "Astonish",
-		"charge": "Sand Tomb",
-		"turns": 16,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
 	},
 	{
 		"pId": "galarian-zapdos",
@@ -10304,17 +10623,6 @@
 		"charge": "Rock Slide",
 		"turns": 16,
 		"excessEnergy": 3,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "hitmonlee",
-		"fId": "double-kick",
-		"cId": "low-sweep",
-		"pokemon": "Hitmonlee",
-		"fast": "Double Kick",
-		"charge": "Low Sweep",
-		"turns": 16,
-		"excessEnergy": 8,
 		"firstEarlyActivation": 1
 	},
 	{
@@ -10384,17 +10692,6 @@
 		"firstEarlyActivation": 4
 	},
 	{
-		"pId": "komala",
-		"fId": "rollout",
-		"cId": "bulldoze",
-		"pokemon": "Komala",
-		"fast": "Rollout",
-		"charge": "Bulldoze",
-		"turns": 16,
-		"excessEnergy": 7,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "litten",
 		"fId": "ember",
 		"cId": "crunch",
@@ -10403,17 +10700,6 @@
 		"charge": "Crunch",
 		"turns": 16,
 		"excessEnergy": 3,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "lopunny",
-		"fId": "double-kick",
-		"cId": "fire-punch",
-		"pokemon": "Lopunny",
-		"fast": "Double Kick",
-		"charge": "Fire Punch",
-		"turns": 16,
-		"excessEnergy": 8,
 		"firstEarlyActivation": 1
 	},
 	{
@@ -10472,78 +10758,12 @@
 		"firstEarlyActivation": 1
 	},
 	{
-		"pId": "minior-core",
-		"fId": "rollout",
-		"cId": "ancient-power",
-		"pokemon": "Minior (Core)",
-		"fast": "Rollout",
-		"charge": "Ancient Power",
-		"turns": 16,
-		"excessEnergy": 7,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "minior-meteor-form",
-		"fId": "rollout",
-		"cId": "ancient-power",
-		"pokemon": "Minior (Meteor Form)",
-		"fast": "Rollout",
-		"charge": "Ancient Power",
-		"turns": 16,
-		"excessEnergy": 7,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "pikipek",
 		"fId": "peck",
 		"cId": "drill-peck",
 		"pokemon": "Pikipek",
 		"fast": "Peck",
 		"charge": "Drill Peck",
-		"turns": 16,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
-	},
-	{
-		"pId": "pumpkaboo-average-size",
-		"fId": "astonish",
-		"cId": "foul-play",
-		"pokemon": "Pumpkaboo - Average Size",
-		"fast": "Astonish",
-		"charge": "Foul Play",
-		"turns": 16,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
-	},
-	{
-		"pId": "pumpkaboo-large-size",
-		"fId": "astonish",
-		"cId": "foul-play",
-		"pokemon": "Pumpkaboo - Large Size",
-		"fast": "Astonish",
-		"charge": "Foul Play",
-		"turns": 16,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
-	},
-	{
-		"pId": "pumpkaboo-small-size",
-		"fId": "astonish",
-		"cId": "foul-play",
-		"pokemon": "Pumpkaboo - Small Size",
-		"fast": "Astonish",
-		"charge": "Foul Play",
-		"turns": 16,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
-	},
-	{
-		"pId": "pumpkaboo-super-size",
-		"fId": "astonish",
-		"cId": "foul-play",
-		"pokemon": "Pumpkaboo - Super Size",
-		"fast": "Astonish",
-		"charge": "Foul Play",
 		"turns": 16,
 		"excessEnergy": 0,
 		"firstEarlyActivation": 0
@@ -10560,23 +10780,12 @@
 		"firstEarlyActivation": 1
 	},
 	{
-		"pId": "shuppet",
-		"fId": "feint-attack",
-		"cId": "ominous-wind",
-		"pokemon": "Shuppet",
-		"fast": "Feint Attack",
-		"charge": "Ominous Wind",
-		"turns": 16,
-		"excessEnergy": 3,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "sinistea",
-		"fId": "sucker-punch",
-		"cId": "dark-pulse",
-		"pokemon": "Sinistea",
-		"fast": "Sucker Punch",
-		"charge": "Dark Pulse",
+		"pId": "scovillain",
+		"fId": "leafage",
+		"cId": "grass-knot",
+		"pokemon": "Scovillain",
+		"fast": "Leafage",
+		"charge": "Grass Knot",
 		"turns": 16,
 		"excessEnergy": 6,
 		"firstEarlyActivation": 1
@@ -10590,6 +10799,17 @@
 		"charge": "Rock Slide",
 		"turns": 16,
 		"excessEnergy": 3,
+		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "sprigatito",
+		"fId": "leafage",
+		"cId": "grass-knot",
+		"pokemon": "Sprigatito",
+		"fast": "Leafage",
+		"charge": "Grass Knot",
+		"turns": 16,
+		"excessEnergy": 6,
 		"firstEarlyActivation": 1
 	},
 	{
@@ -10623,17 +10843,6 @@
 		"charge": "Aerial Ace",
 		"turns": 16,
 		"excessEnergy": 6,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "tapu-lele",
-		"fId": "confusion",
-		"cId": "psyshock",
-		"pokemon": "Tapu Lele",
-		"fast": "Confusion",
-		"charge": "Psyshock",
-		"turns": 16,
-		"excessEnergy": 8,
 		"firstEarlyActivation": 1
 	},
 	{
@@ -10690,17 +10899,6 @@
 		"turns": 16,
 		"excessEnergy": 2,
 		"firstEarlyActivation": 4
-	},
-	{
-		"pId": "whismur",
-		"fId": "astonish",
-		"cId": "stomp",
-		"pokemon": "Whismur",
-		"fast": "Astonish",
-		"charge": "Stomp",
-		"turns": 16,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
 	},
 	{
 		"pId": "clawitzer",
@@ -10945,6 +11143,17 @@
 		"firstEarlyActivation": 5
 	},
 	{
+		"pId": "drakloak",
+		"fId": "astonish",
+		"cId": "shadow-ball",
+		"pokemon": "Drakloak",
+		"fast": "Astonish",
+		"charge": "Shadow Ball",
+		"turns": 18,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
+	},
+	{
 		"pId": "fidough",
 		"fId": "charm",
 		"cId": "body-slam",
@@ -10954,6 +11163,17 @@
 		"turns": 18,
 		"excessEnergy": 1,
 		"firstEarlyActivation": 5
+	},
+	{
+		"pId": "gimmighoul-roaming-form",
+		"fId": "astonish",
+		"cId": "shadow-ball",
+		"pokemon": "Gimmighoul (Roaming Form)",
+		"fast": "Astonish",
+		"charge": "Shadow Ball",
+		"turns": 18,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "glimmet",
@@ -11000,6 +11220,17 @@
 		"firstEarlyActivation": 2
 	},
 	{
+		"pId": "hoopa-confined",
+		"fId": "astonish",
+		"cId": "psychic",
+		"pokemon": "Hoopa (Confined)",
+		"fast": "Astonish",
+		"charge": "Psychic",
+		"turns": 18,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
+	},
+	{
 		"pId": "indeedee-female",
 		"fId": "extrasensory",
 		"cId": "psychic",
@@ -11033,14 +11264,14 @@
 		"firstEarlyActivation": 2
 	},
 	{
-		"pId": "litwick",
-		"fId": "ember",
-		"cId": "flame-charge",
-		"pokemon": "Litwick",
-		"fast": "Ember",
-		"charge": "Flame Charge",
+		"pId": "lampent",
+		"fId": "astonish",
+		"cId": "energy-ball",
+		"pokemon": "Lampent",
+		"fast": "Astonish",
+		"charge": "Energy Ball",
 		"turns": 18,
-		"excessEnergy": 4,
+		"excessEnergy": 5,
 		"firstEarlyActivation": 1
 	},
 	{
@@ -11143,17 +11374,6 @@
 		"firstEarlyActivation": 1
 	},
 	{
-		"pId": "scovillain",
-		"fId": "fire-fang",
-		"cId": "grass-knot",
-		"pokemon": "Scovillain",
-		"fast": "Fire Fang",
-		"charge": "Grass Knot",
-		"turns": 18,
-		"excessEnergy": 4,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "stakataka",
 		"fId": "take-down",
 		"cId": "bulldoze",
@@ -11163,17 +11383,6 @@
 		"turns": 18,
 		"excessEnergy": 3,
 		"firstEarlyActivation": 2
-	},
-	{
-		"pId": "swablu",
-		"fId": "peck",
-		"cId": "disarming-voice",
-		"pokemon": "Swablu",
-		"fast": "Peck",
-		"charge": "Disarming Voice",
-		"turns": 18,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
 	},
 	{
 		"pId": "torchic",
@@ -11229,28 +11438,6 @@
 		"turns": 18,
 		"excessEnergy": 3,
 		"firstEarlyActivation": 2
-	},
-	{
-		"pId": "vanillish",
-		"fId": "frost-breath",
-		"cId": "icy-wind",
-		"pokemon": "Vanillish",
-		"fast": "Frost Breath",
-		"charge": "Icy Wind",
-		"turns": 18,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
-	},
-	{
-		"pId": "vanilluxe",
-		"fId": "frost-breath",
-		"cId": "avalanche",
-		"pokemon": "Vanilluxe",
-		"fast": "Frost Breath",
-		"charge": "Avalanche",
-		"turns": 18,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
 	},
 	{
 		"pId": "volcarona",
@@ -11341,17 +11528,6 @@
 		"firstEarlyActivation": 1
 	},
 	{
-		"pId": "slurpuff",
-		"fId": "tackle",
-		"cId": "energy-ball",
-		"pokemon": "Slurpuff",
-		"fast": "Tackle",
-		"charge": "Energy Ball",
-		"turns": 19,
-		"excessEnergy": 2,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "swirlix",
 		"fId": "tackle",
 		"cId": "draining-kiss",
@@ -11405,28 +11581,6 @@
 		"turns": 20,
 		"excessEnergy": 5,
 		"firstEarlyActivation": 2
-	},
-	{
-		"pId": "elgyem",
-		"fId": "confusion",
-		"cId": "dark-pulse",
-		"pokemon": "Elgyem",
-		"fast": "Confusion",
-		"charge": "Dark Pulse",
-		"turns": 20,
-		"excessEnergy": 10,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "exploud",
-		"fId": "astonish",
-		"cId": "crunch",
-		"pokemon": "Exploud",
-		"fast": "Astonish",
-		"charge": "Crunch",
-		"turns": 20,
-		"excessEnergy": 5,
-		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "gloom",
@@ -11484,39 +11638,6 @@
 		"firstEarlyActivation": 2
 	},
 	{
-		"pId": "hoopa-confined",
-		"fId": "confusion",
-		"cId": "psychic",
-		"pokemon": "Hoopa (Confined)",
-		"fast": "Confusion",
-		"charge": "Psychic",
-		"turns": 20,
-		"excessEnergy": 5,
-		"firstEarlyActivation": 2
-	},
-	{
-		"pId": "hoopa-unbound",
-		"fId": "confusion",
-		"cId": "dark-pulse",
-		"pokemon": "Hoopa (Unbound)",
-		"fast": "Confusion",
-		"charge": "Dark Pulse",
-		"turns": 20,
-		"excessEnergy": 10,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "lampent",
-		"fId": "ember",
-		"cId": "energy-ball",
-		"pokemon": "Lampent",
-		"fast": "Ember",
-		"charge": "Energy Ball",
-		"turns": 20,
-		"excessEnergy": 5,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "larvitar",
 		"fId": "bite",
 		"cId": "stomp",
@@ -11548,17 +11669,6 @@
 		"turns": 20,
 		"excessEnergy": 5,
 		"firstEarlyActivation": 2
-	},
-	{
-		"pId": "morelull",
-		"fId": "astonish",
-		"cId": "seed-bomb",
-		"pokemon": "Morelull",
-		"fast": "Astonish",
-		"charge": "Seed Bomb",
-		"turns": 20,
-		"excessEnergy": 5,
-		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "orbeetle",
@@ -11594,17 +11704,6 @@
 		"firstEarlyActivation": 0
 	},
 	{
-		"pId": "shiinotic",
-		"fId": "astonish",
-		"cId": "seed-bomb",
-		"pokemon": "Shiinotic",
-		"fast": "Astonish",
-		"charge": "Seed Bomb",
-		"turns": 20,
-		"excessEnergy": 5,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "skarmory",
 		"fId": "steel-wing",
 		"cId": "brave-bird",
@@ -11625,17 +11724,6 @@
 		"turns": 20,
 		"excessEnergy": 5,
 		"firstEarlyActivation": 2
-	},
-	{
-		"pId": "tornadus-therian-forme",
-		"fId": "astonish",
-		"cId": "bleakwind-storm",
-		"pokemon": "Tornadus (Therian Forme)",
-		"fast": "Astonish",
-		"charge": "Bleakwind Storm",
-		"turns": 20,
-		"excessEnergy": 5,
-		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "torterra",
@@ -11693,17 +11781,6 @@
 		"firstEarlyActivation": 1
 	},
 	{
-		"pId": "yamask",
-		"fId": "astonish",
-		"cId": "ominous-wind",
-		"pokemon": "Yamask",
-		"fast": "Astonish",
-		"charge": "Ominous Wind",
-		"turns": 20,
-		"excessEnergy": 5,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "alomomola",
 		"fId": "waterfall",
 		"cId": "psychic",
@@ -11737,17 +11814,6 @@
 		"firstEarlyActivation": 1
 	},
 	{
-		"pId": "capsakid",
-		"fId": "leafage",
-		"cId": "seed-bomb",
-		"pokemon": "Capsakid",
-		"fast": "Leafage",
-		"charge": "Seed Bomb",
-		"turns": 21,
-		"excessEnergy": 4,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "chingling",
 		"fId": "zen-headbutt",
 		"cId": "psyshock",
@@ -11770,28 +11836,6 @@
 		"firstEarlyActivation": 2
 	},
 	{
-		"pId": "cutiefly",
-		"fId": "fairy-wind",
-		"cId": "dazzling-gleam",
-		"pokemon": "Cutiefly",
-		"fast": "Fairy Wind",
-		"charge": "Dazzling Gleam",
-		"turns": 21,
-		"excessEnergy": 8,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "drakloak",
-		"fId": "dragon-tail",
-		"cId": "shadow-ball",
-		"pokemon": "Drakloak",
-		"fast": "Dragon Tail",
-		"charge": "Shadow Ball",
-		"turns": 21,
-		"excessEnergy": 8,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "lilligant",
 		"fId": "magical-leaf",
 		"cId": "petal-blizzard",
@@ -11809,17 +11853,6 @@
 		"pokemon": "Noivern",
 		"fast": "Air Slash",
 		"charge": "Psychic",
-		"turns": 21,
-		"excessEnergy": 8,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "ribombee",
-		"fId": "fairy-wind",
-		"cId": "dazzling-gleam",
-		"pokemon": "Ribombee",
-		"fast": "Fairy Wind",
-		"charge": "Dazzling Gleam",
 		"turns": 21,
 		"excessEnergy": 8,
 		"firstEarlyActivation": 1
@@ -11924,28 +11957,6 @@
 		"firstEarlyActivation": 1
 	},
 	{
-		"pId": "floragato",
-		"fId": "leafage",
-		"cId": "grass-knot",
-		"pokemon": "Floragato",
-		"fast": "Leafage",
-		"charge": "Grass Knot",
-		"turns": 24,
-		"excessEnergy": 6,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "gimmighoul-roaming-form",
-		"fId": "astonish",
-		"cId": "shadow-ball",
-		"pokemon": "Gimmighoul (Roaming Form)",
-		"fast": "Astonish",
-		"charge": "Shadow Ball",
-		"turns": 24,
-		"excessEnergy": 5,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "magikarp",
 		"fId": "splash",
 		"cId": "return",
@@ -11987,17 +11998,6 @@
 		"charge": "Struggle",
 		"turns": 24,
 		"excessEnergy": 8,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "sprigatito",
-		"fId": "leafage",
-		"cId": "grass-knot",
-		"pokemon": "Sprigatito",
-		"fast": "Leafage",
-		"charge": "Grass Knot",
-		"turns": 24,
-		"excessEnergy": 6,
 		"firstEarlyActivation": 1
 	},
 	{
