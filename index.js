@@ -28,7 +28,7 @@ function init() {
         addCell(x, row, 'fast', { link: `https://pokemongo.gamepress.gg/c/moves/${x.fId}` });
         addCell(x, row, 'charge', { link: `https://pokemongo.gamepress.gg/c/moves/${x.cId}` });
         addCell(x, row, 'excessEnergy', { class: 'excess' });
-        addCell(x, row, 'firstEarlyActivation', { class: 'early' });
+        // addCell(x, row, 'firstEarlyActivation', { class: 'early' });
 
         rows.push({ search: `${x.pokemon}|${x.fast}|${x.charge}`.toLowerCase(), element: row });
 
