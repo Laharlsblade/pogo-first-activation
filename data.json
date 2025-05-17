@@ -363,39 +363,6 @@
 		"firstEarlyActivation": 8
 	},
 	{
-		"pId": "tinkatink",
-		"fId": "fairy-wind",
-		"cId": "brutal-swing",
-		"pokemon": "Tinkatink",
-		"fast": "Fairy Wind",
-		"charge": "Brutal Swing",
-		"turns": 8,
-		"excessEnergy": 1,
-		"firstEarlyActivation": 8
-	},
-	{
-		"pId": "tinkaton",
-		"fId": "fairy-wind",
-		"cId": "brutal-swing",
-		"pokemon": "Tinkaton",
-		"fast": "Fairy Wind",
-		"charge": "Brutal Swing",
-		"turns": 8,
-		"excessEnergy": 1,
-		"firstEarlyActivation": 8
-	},
-	{
-		"pId": "tinkatuff",
-		"fId": "fairy-wind",
-		"cId": "brutal-swing",
-		"pokemon": "Tinkatuff",
-		"fast": "Fairy Wind",
-		"charge": "Brutal Swing",
-		"turns": 8,
-		"excessEnergy": 1,
-		"firstEarlyActivation": 8
-	},
-	{
 		"pId": "togedemaru",
 		"fId": "thunder-shock",
 		"cId": "fell-stinger",
@@ -3342,6 +3309,17 @@
 		"turns": 10,
 		"excessEnergy": 5,
 		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "tinkaton",
+		"fId": "fairy-wind",
+		"cId": "bulldoze",
+		"pokemon": "Tinkaton",
+		"fast": "Fairy Wind",
+		"charge": "Bulldoze",
+		"turns": 10,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
 	},
 	{
 		"pId": "togetic",
@@ -7535,34 +7513,12 @@
 		"firstEarlyActivation": 6
 	},
 	{
-		"pId": "zacian-crowned-sword",
-		"fId": "snarl",
-		"cId": "wild-charge",
-		"pokemon": "Zacian - Crowned Sword",
-		"fast": "Snarl",
-		"charge": "Wild Charge",
-		"turns": 12,
-		"excessEnergy": 7,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "zacian-hero-of-many-battles",
 		"fId": "snarl",
 		"cId": "wild-charge",
 		"pokemon": "Zacian - Hero of Many Battles",
 		"fast": "Snarl",
 		"charge": "Wild Charge",
-		"turns": 12,
-		"excessEnergy": 7,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "zamazenta-crowned-shield",
-		"fId": "snarl",
-		"cId": "crunch",
-		"pokemon": "Zamazenta - Crowned Shield",
-		"fast": "Snarl",
-		"charge": "Crunch",
 		"turns": 12,
 		"excessEnergy": 7,
 		"firstEarlyActivation": 1
@@ -8657,6 +8613,28 @@
 		"firstEarlyActivation": 0
 	},
 	{
+		"pId": "tinkatink",
+		"fId": "fairy-wind",
+		"cId": "play-rough",
+		"pokemon": "Tinkatink",
+		"fast": "Fairy Wind",
+		"charge": "Play Rough",
+		"turns": 14,
+		"excessEnergy": 3,
+		"firstEarlyActivation": 2
+	},
+	{
+		"pId": "tinkatuff",
+		"fId": "fairy-wind",
+		"cId": "play-rough",
+		"pokemon": "Tinkatuff",
+		"fast": "Fairy Wind",
+		"charge": "Play Rough",
+		"turns": 14,
+		"excessEnergy": 3,
+		"firstEarlyActivation": 2
+	},
+	{
 		"pId": "totodile",
 		"fId": "water-gun",
 		"cId": "aqua-jet",
@@ -8795,6 +8773,28 @@
 		"pokemon": "Yanmega",
 		"fast": "Wing Attack",
 		"charge": "Ancient Power",
+		"turns": 14,
+		"excessEnergy": 4,
+		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "zacian-crowned-sword",
+		"fId": "metal-claw",
+		"cId": "close-combat",
+		"pokemon": "Zacian - Crowned Sword",
+		"fast": "Metal Claw",
+		"charge": "Close Combat",
+		"turns": 14,
+		"excessEnergy": 4,
+		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "zamazenta-crowned-shield",
+		"fId": "metal-claw",
+		"cId": "close-combat",
+		"pokemon": "Zamazenta - Crowned Shield",
+		"fast": "Metal Claw",
+		"charge": "Close Combat",
 		"turns": 14,
 		"excessEnergy": 4,
 		"firstEarlyActivation": 1
