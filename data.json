@@ -5368,6 +5368,17 @@
 		"firstEarlyActivation": 2
 	},
 	{
+		"pId": "hisuian-lilligant",
+		"fId": "bullet-seed",
+		"cId": "upper-hand",
+		"pokemon": "Hisuian Lilligant",
+		"fast": "Bullet Seed",
+		"charge": "Upper Hand",
+		"turns": 12,
+		"excessEnergy": 12,
+		"firstEarlyActivation": 1
+	},
+	{
 		"pId": "hisuian-sneasel",
 		"fId": "poison-jab",
 		"cId": "x-scissor",
@@ -10197,6 +10208,17 @@
 		"firstEarlyActivation": 0
 	},
 	{
+		"pId": "tornadus-incarnate-forme",
+		"fId": "air-slash",
+		"cId": "bleakwind-storm",
+		"pokemon": "Tornadus (Incarnate Forme)",
+		"fast": "Air Slash",
+		"charge": "Bleakwind Storm",
+		"turns": 15,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
+	},
+	{
 		"pId": "tornadus-therian-forme",
 		"fId": "astonish",
 		"cId": "bleakwind-storm",
@@ -11427,17 +11449,6 @@
 		"turns": 18,
 		"excessEnergy": 5,
 		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "tornadus-incarnate-forme",
-		"fId": "air-slash",
-		"cId": "grass-knot",
-		"pokemon": "Tornadus (Incarnate Forme)",
-		"fast": "Air Slash",
-		"charge": "Grass Knot",
-		"turns": 18,
-		"excessEnergy": 4,
-		"firstEarlyActivation": 2
 	},
 	{
 		"pId": "tranquill",
