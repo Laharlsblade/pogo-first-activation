@@ -4246,26 +4246,15 @@
 		"firstEarlyActivation": 0
 	},
 	{
-		"pId": "carkol",
+		"pId": "blacephalon",
 		"fId": "incinerate",
-		"cId": "rock-blast",
-		"pokemon": "Carkol",
+		"cId": "mind-blown",
+		"pokemon": "Blacephalon",
 		"fast": "Incinerate",
-		"charge": "Rock Blast",
+		"charge": "Mind Blown",
 		"turns": 10,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
-	},
-	{
-		"pId": "coalossal",
-		"fId": "incinerate",
-		"cId": "rock-blast",
-		"pokemon": "Coalossal",
-		"fast": "Incinerate",
-		"charge": "Rock Blast",
-		"turns": 10,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
+		"excessEnergy": 5,
+		"firstEarlyActivation": 3
 	},
 	{
 		"pId": "flapple",
@@ -7799,28 +7788,6 @@
 		"firstEarlyActivation": 1
 	},
 	{
-		"pId": "charjabug",
-		"fId": "volt-switch",
-		"cId": "x-scissor",
-		"pokemon": "Charjabug",
-		"fast": "Volt Switch",
-		"charge": "X Scissor",
-		"turns": 12,
-		"excessEnergy": 8,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "vikavolt",
-		"fId": "volt-switch",
-		"cId": "x-scissor",
-		"pokemon": "Vikavolt",
-		"fast": "Volt Switch",
-		"charge": "X Scissor",
-		"turns": 12,
-		"excessEnergy": 8,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "vikavolt",
 		"fId": "volt-switch",
 		"cId": "x-scissor",
@@ -8248,6 +8215,17 @@
 		"turns": 12,
 		"excessEnergy": 1,
 		"firstEarlyActivation": 2
+	},
+	{
+		"pId": "coalossal",
+		"fId": "fire-spin",
+		"cId": "rock-blast",
+		"pokemon": "Coalossal",
+		"fast": "Fire Spin",
+		"charge": "Rock Blast",
+		"turns": 12,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
 	},
 	{
 		"pId": "appletun",
@@ -10087,6 +10065,17 @@
 		"firstEarlyActivation": 1
 	},
 	{
+		"pId": "carkol",
+		"fId": "tackle",
+		"cId": "rock-blast",
+		"pokemon": "Carkol",
+		"fast": "Tackle",
+		"charge": "Rock Blast",
+		"turns": 14,
+		"excessEnergy": 2,
+		"firstEarlyActivation": 1
+	},
+	{
 		"pId": "alcremie",
 		"fId": "tackle",
 		"cId": "psyshock",
@@ -11231,17 +11220,6 @@
 		"firstEarlyActivation": 0
 	},
 	{
-		"pId": "blacephalon",
-		"fId": "incinerate",
-		"cId": "mystical-fire",
-		"pokemon": "Blacephalon",
-		"fast": "Incinerate",
-		"charge": "Mystical Fire",
-		"turns": 15,
-		"excessEnergy": 15,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "scorbunny",
 		"fId": "fire-spin",
 		"cId": "flame-charge",
@@ -11602,17 +11580,6 @@
 		"charge": "Rock Slide",
 		"turns": 16,
 		"excessEnergy": 11,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "sudowoodo",
-		"fId": "counter",
-		"cId": "rock-slide",
-		"pokemon": "Sudowoodo",
-		"fast": "Counter",
-		"charge": "Rock Slide",
-		"turns": 16,
-		"excessEnergy": 3,
 		"firstEarlyActivation": 1
 	},
 	{
