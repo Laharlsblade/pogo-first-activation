@@ -8780,13 +8780,13 @@
 	{
 		"pId": "flamigo",
 		"fId": "double-kick",
-		"cId": "aerial-ace",
+		"cId": "upper-hand",
 		"pokemon": "Flamigo",
 		"fast": "Double Kick",
-		"charge": "Aerial Ace",
+		"charge": "Upper Hand",
 		"turns": 12,
-		"excessEnergy": 3,
-		"firstEarlyActivation": 3
+		"excessEnergy": 8,
+		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "veluza",
@@ -12287,6 +12287,17 @@
 		"firstEarlyActivation": 2
 	},
 	{
+		"pId": "rillaboom",
+		"fId": "scratch",
+		"cId": "drum-beating",
+		"pokemon": "Rillaboom",
+		"fast": "Scratch",
+		"charge": "Drum Beating",
+		"turns": 18,
+		"excessEnergy": 1,
+		"firstEarlyActivation": 1
+	},
+	{
 		"pId": "clobbopus",
 		"fId": "rock-smash",
 		"cId": "brick-break",
@@ -12632,17 +12643,6 @@
 		"fId": "scratch",
 		"cId": "grass-knot",
 		"pokemon": "Thwackey",
-		"fast": "Scratch",
-		"charge": "Grass Knot",
-		"turns": 25,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
-	},
-	{
-		"pId": "rillaboom",
-		"fId": "scratch",
-		"cId": "grass-knot",
-		"pokemon": "Rillaboom",
 		"fast": "Scratch",
 		"charge": "Grass Knot",
 		"turns": 25,
