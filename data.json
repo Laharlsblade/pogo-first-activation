@@ -4444,6 +4444,17 @@
 		"firstEarlyActivation": 3
 	},
 	{
+		"pId": "orbeetle",
+		"fId": "psycho-cut",
+		"cId": "psyshock",
+		"pokemon": "Orbeetle",
+		"fast": "Psycho Cut",
+		"charge": "Psyshock",
+		"turns": 10,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
+	},
+	{
 		"pId": "flapple",
 		"fId": "dragon-breath",
 		"cId": "seed-bomb",
@@ -8349,6 +8360,17 @@
 		"firstEarlyActivation": 1
 	},
 	{
+		"pId": "mimikyu",
+		"fId": "hex",
+		"cId": "shadow-sneak",
+		"pokemon": "Mimikyu",
+		"fast": "Hex",
+		"charge": "Shadow Sneak",
+		"turns": 12,
+		"excessEnergy": 2,
+		"firstEarlyActivation": 6
+	},
+	{
 		"pId": "bruxish",
 		"fId": "confusion",
 		"cId": "psychic-fangs",
@@ -8490,6 +8512,17 @@
 		"turns": 12,
 		"excessEnergy": 8,
 		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "cinderace",
+		"fId": "fire-spin",
+		"cId": "pyroball",
+		"pokemon": "Cinderace",
+		"fast": "Fire Spin",
+		"charge": "Pyroball",
+		"turns": 12,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
 	},
 	{
 		"pId": "gossifleur",
@@ -10142,17 +10175,6 @@
 		"firstEarlyActivation": 1
 	},
 	{
-		"pId": "mimikyu",
-		"fId": "shadow-claw",
-		"cId": "shadow-sneak",
-		"pokemon": "Mimikyu",
-		"fast": "Shadow Claw",
-		"charge": "Shadow Sneak",
-		"turns": 14,
-		"excessEnergy": 6,
-		"firstEarlyActivation": 1
-	},
-	{
 		"pId": "tapu-koko",
 		"fId": "quick-attack",
 		"cId": "natures-madness",
@@ -11352,17 +11374,6 @@
 		"firstEarlyActivation": 0
 	},
 	{
-		"pId": "cinderace",
-		"fId": "fire-spin",
-		"cId": "flame-charge",
-		"pokemon": "Cinderace",
-		"fast": "Fire Spin",
-		"charge": "Flame Charge",
-		"turns": 15,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
-	},
-	{
 		"pId": "sobble",
 		"fId": "water-gun",
 		"cId": "surf",
@@ -12016,17 +12027,6 @@
 		"fId": "confusion",
 		"cId": "psychic",
 		"pokemon": "Dottler",
-		"fast": "Confusion",
-		"charge": "Psychic",
-		"turns": 16,
-		"excessEnergy": 1,
-		"firstEarlyActivation": 13
-	},
-	{
-		"pId": "orbeetle",
-		"fId": "confusion",
-		"cId": "psychic",
-		"pokemon": "Orbeetle",
 		"fast": "Confusion",
 		"charge": "Psychic",
 		"turns": 16,
