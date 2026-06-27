@@ -11649,6 +11649,17 @@
 		"firstEarlyActivation": 0
 	},
 	{
+		"pId": "gimmighoul",
+		"fId": "astonish",
+		"cId": "shadow-ball",
+		"pokemon": "Gimmighoul",
+		"fast": "Astonish",
+		"charge": "Shadow Ball",
+		"turns": 15,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
+	},
+	{
 		"pId": "poltchageist",
 		"fId": "astonish",
 		"cId": "energy-ball",
