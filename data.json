@@ -4567,10 +4567,10 @@
 	{
 		"pId": "cramorant",
 		"fId": "peck",
-		"cId": "drill-peck",
+		"cId": "dive",
 		"pokemon": "Cramorant",
 		"fast": "Peck",
-		"charge": "Drill Peck",
+		"charge": "Dive",
 		"turns": 10,
 		"excessEnergy": 0,
 		"firstEarlyActivation": 0
@@ -5121,6 +5121,17 @@
 		"pokemon": "Kingambit",
 		"fast": "Metal Sound",
 		"charge": "X Scissor",
+		"turns": 10,
+		"excessEnergy": 0,
+		"firstEarlyActivation": 0
+	},
+	{
+		"pId": "baxcalibur",
+		"fId": "dragon-breath",
+		"cId": "glaive-rush",
+		"pokemon": "Baxcalibur",
+		"fast": "Dragon Breath",
+		"charge": "Glaive Rush",
 		"turns": 10,
 		"excessEnergy": 0,
 		"firstEarlyActivation": 0
@@ -8602,6 +8613,17 @@
 		"firstEarlyActivation": 0
 	},
 	{
+		"pId": "inteleon",
+		"fId": "water-gun",
+		"cId": "snipe-shot",
+		"pokemon": "Inteleon",
+		"fast": "Water Gun",
+		"charge": "Snipe Shot",
+		"turns": 12,
+		"excessEnergy": 1,
+		"firstEarlyActivation": 2
+	},
+	{
 		"pId": "gossifleur",
 		"fId": "bullet-seed",
 		"cId": "energy-ball",
@@ -9266,17 +9288,6 @@
 		"fId": "dragon-breath",
 		"cId": "avalanche",
 		"pokemon": "Arctibax",
-		"fast": "Dragon Breath",
-		"charge": "Avalanche",
-		"turns": 12,
-		"excessEnergy": 3,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "baxcalibur",
-		"fId": "dragon-breath",
-		"cId": "avalanche",
-		"pokemon": "Baxcalibur",
 		"fast": "Dragon Breath",
 		"charge": "Avalanche",
 		"turns": 12,
@@ -11440,17 +11451,6 @@
 		"firstEarlyActivation": 0
 	},
 	{
-		"pId": "inteleon",
-		"fId": "water-gun",
-		"cId": "surf",
-		"pokemon": "Inteleon",
-		"fast": "Water Gun",
-		"charge": "Surf",
-		"turns": 15,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
-	},
-	{
 		"pId": "sinistea",
 		"fId": "astonish",
 		"cId": "shadow-ball",
@@ -11636,17 +11636,6 @@
 		"turns": 15,
 		"excessEnergy": 5,
 		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "gimmighoul",
-		"fId": "astonish",
-		"cId": "shadow-ball",
-		"pokemon": "Gimmighoul",
-		"fast": "Astonish",
-		"charge": "Shadow Ball",
-		"turns": 15,
-		"excessEnergy": 0,
-		"firstEarlyActivation": 0
 	},
 	{
 		"pId": "gimmighoul",
