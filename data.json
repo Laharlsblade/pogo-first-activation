@@ -1628,6 +1628,28 @@
 		"firstEarlyActivation": 3
 	},
 	{
+		"pId": "maschiff",
+		"fId": "snarl",
+		"cId": "psychic-fangs",
+		"pokemon": "Maschiff",
+		"fast": "Snarl",
+		"charge": "Psychic Fangs",
+		"turns": 9,
+		"excessEnergy": 4,
+		"firstEarlyActivation": 3
+	},
+	{
+		"pId": "mabosstiff",
+		"fId": "snarl",
+		"cId": "psychic-fangs",
+		"pokemon": "Mabosstiff",
+		"fast": "Snarl",
+		"charge": "Psychic Fangs",
+		"turns": 9,
+		"excessEnergy": 4,
+		"firstEarlyActivation": 3
+	},
+	{
 		"pId": "cyclizar",
 		"fId": "dragon-tail",
 		"cId": "body-slam",
@@ -1793,6 +1815,50 @@
 		"firstEarlyActivation": 1
 	},
 	{
+		"pId": "pikachu",
+		"fId": "thunder-shock",
+		"cId": "discharge",
+		"pokemon": "Pikachu",
+		"fast": "Thunder Shock",
+		"charge": "Discharge",
+		"turns": 10,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "pikachu",
+		"fId": "thunder-shock",
+		"cId": "discharge",
+		"pokemon": "Pikachu",
+		"fast": "Thunder Shock",
+		"charge": "Discharge",
+		"turns": 10,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "pikachu",
+		"fId": "thunder-shock",
+		"cId": "discharge",
+		"pokemon": "Pikachu",
+		"fast": "Thunder Shock",
+		"charge": "Discharge",
+		"turns": 10,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "pikachu",
+		"fId": "thunder-shock",
+		"cId": "discharge",
+		"pokemon": "Pikachu",
+		"fast": "Thunder Shock",
+		"charge": "Discharge",
+		"turns": 10,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
+	},
+	{
 		"pId": "pikachu-bb-2026",
 		"fId": "thunder-shock",
 		"cId": "discharge",
@@ -1841,6 +1907,17 @@
 		"fId": "thunder-shock",
 		"cId": "discharge",
 		"pokemon": "Pikachu Horizons",
+		"fast": "Thunder Shock",
+		"charge": "Discharge",
+		"turns": 10,
+		"excessEnergy": 5,
+		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "pikachu",
+		"fId": "thunder-shock",
+		"cId": "discharge",
+		"pokemon": "Pikachu",
 		"fast": "Thunder Shock",
 		"charge": "Discharge",
 		"turns": 10,
@@ -9095,28 +9172,6 @@
 		"turns": 12,
 		"excessEnergy": 3,
 		"firstEarlyActivation": 2
-	},
-	{
-		"pId": "maschiff",
-		"fId": "snarl",
-		"cId": "crunch",
-		"pokemon": "Maschiff",
-		"fast": "Snarl",
-		"charge": "Crunch",
-		"turns": 12,
-		"excessEnergy": 7,
-		"firstEarlyActivation": 1
-	},
-	{
-		"pId": "mabosstiff",
-		"fId": "snarl",
-		"cId": "crunch",
-		"pokemon": "Mabosstiff",
-		"fast": "Snarl",
-		"charge": "Crunch",
-		"turns": 12,
-		"excessEnergy": 7,
-		"firstEarlyActivation": 1
 	},
 	{
 		"pId": "shroodle",
