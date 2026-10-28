@@ -8965,10 +8965,10 @@
 		"firstEarlyActivation": 1
 	},
 	{
-		"pId": "minior-blue",
+		"pId": "minior-meteor",
 		"fId": "rollout",
 		"cId": "ancient-power",
-		"pokemon": "Minior Blue",
+		"pokemon": "Minior Meteor",
 		"fast": "Rollout",
 		"charge": "Ancient Power",
 		"turns": 12,
@@ -11517,6 +11517,17 @@
 		"firstEarlyActivation": 0
 	},
 	{
+		"pId": "goodra-hisuian",
+		"fId": "dragon-tail",
+		"cId": "heavy-slam",
+		"pokemon": "Goodra Hisuian",
+		"fast": "Dragon Tail",
+		"charge": "Heavy Slam",
+		"turns": 15,
+		"excessEnergy": 10,
+		"firstEarlyActivation": 1
+	},
+	{
 		"pId": "diancie",
 		"fId": "tackle",
 		"cId": "rock-slide",
@@ -12340,6 +12351,17 @@
 		"turns": 16,
 		"excessEnergy": 6,
 		"firstEarlyActivation": 1
+	},
+	{
+		"pId": "sliggoo-hisuian",
+		"fId": "tackle",
+		"cId": "heavy-slam",
+		"pokemon": "Sliggoo Hisuian",
+		"fast": "Tackle",
+		"charge": "Heavy Slam",
+		"turns": 17,
+		"excessEnergy": 1,
+		"firstEarlyActivation": 2
 	},
 	{
 		"pId": "cufant",
